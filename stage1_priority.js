@@ -1,5 +1,5 @@
 // Import the custom logger from the middleware folder
-const logger = require('../logging_middleware/logger'); 
+const logger = require('./logging_middleware/logger'); 
 
 async function getTopNotifications() {
   const url = 'http://4.224.186.213/evaluation-service/notifications';
