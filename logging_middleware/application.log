@@ -1,0 +1,65 @@
+[ERROR] [2026-06-03T09:11:25.730Z] Failed to fetch or process notifications: HTTP error! status: 401
+[ERROR] [2026-06-03T09:11:28.244Z] Failed to fetch or process notifications: HTTP error! status: 401
+[INFO] [2026-06-03T09:15:05.583Z] === Top 10 Priority Notifications ===
+[INFO] [2026-06-03T09:15:05.584Z] [
+  {
+    "ID": "b71e6cb1-cc40-41f7-81b5-5ff613c8e38d",
+    "Type": "Placement",
+    "Message": "Booking Holdings Inc. hiring",
+    "Timestamp": "2026-06-03 08:44:50"
+  },
+  {
+    "ID": "c06eaa14-8855-45c2-a024-c168d5e9a020",
+    "Type": "Placement",
+    "Message": "Booking Holdings Inc. hiring",
+    "Timestamp": "2026-06-03 06:41:50"
+  },
+  {
+    "ID": "49359d81-a356-47b3-ade4-e6701b0dca5f",
+    "Type": "Placement",
+    "Message": "Advanced Micro Devices Inc. hiring",
+    "Timestamp": "2026-06-03 06:12:02"
+  },
+  {
+    "ID": "b0a688d3-8ae0-48b5-a679-9f740feddaa1",
+    "Type": "Placement",
+    "Message": "Amgen Inc. hiring",
+    "Timestamp": "2026-06-02 22:42:14"
+  },
+  {
+    "ID": "5fa34eb5-137b-4d7a-9a3d-585ef0f1cad6",
+    "Type": "Placement",
+    "Message": "Booking Holdings Inc. hiring",
+    "Timestamp": "2026-06-02 15:12:38"
+  },
+  {
+    "ID": "1c37dc05-4d48-48c6-8909-9d1993c557c3",
+    "Type": "Result",
+    "Message": "internal",
+    "Timestamp": "2026-06-03 08:43:02"
+  },
+  {
+    "ID": "5d2d4239-5167-45ff-9403-fe04d816b01f",
+    "Type": "Result",
+    "Message": "end-sem",
+    "Timestamp": "2026-06-03 07:15:02"
+  },
+  {
+    "ID": "5e285b0a-138c-4bc1-9c72-6c3e841066c0",
+    "Type": "Result",
+    "Message": "project-review",
+    "Timestamp": "2026-06-03 07:14:38"
+  },
+  {
+    "ID": "9d5f2129-7c54-4731-bf6e-d027a6d5fd48",
+    "Type": "Result",
+    "Message": "internal",
+    "Timestamp": "2026-06-03 05:11:14"
+  },
+  {
+    "ID": "191381b8-b643-451a-9595-0eea47214124",
+    "Type": "Result",
+    "Message": "project-review",
+    "Timestamp": "2026-06-02 23:43:26"
+  }
+]
